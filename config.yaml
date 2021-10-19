@@ -25,7 +25,7 @@ params:
     enable: yes
     phone:
       - phone: 7878839506
-      title: Phone Number
+        title: Phone Number
   custom_css: []
   custom_js: []
   description: Your description
