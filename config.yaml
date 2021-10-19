@@ -1,6 +1,6 @@
 s dbaseURL: https://neelmalhotra.netlify.app
 languageCode: en-us
-title: Forty
+title: Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -14,19 +14,19 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
+      - city: London, NW8 8TJ
+        country: United Kingdom
         street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: nmalhotra.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+      - phone: +447878839506
+        title: Phone no.
   custom_css: []
   custom_js: []
   description: Your description
@@ -108,11 +108,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
+    subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below some quick links"
     title: Massa libero
     url: blogs
