@@ -15,7 +15,7 @@ params:
     address:
       - city: London, NW8 8TJ
         country: United Kingdom
-        street: London Business School
+        street: London Business School(LBS)
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -42,7 +42,7 @@ params:
         url: https://www.html5up.net
     social:
       - icon: fa-twitter
-        label: Twitter
+        label: Whatsapp
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
