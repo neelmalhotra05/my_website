@@ -24,8 +24,8 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: "+447878839506""
-        title: Phone no.
+      - phone: 447878839506
+      title: Phone no.
   custom_css: []
   custom_js: []
   description: Your description
