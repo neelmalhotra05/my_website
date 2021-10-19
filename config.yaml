@@ -1,6 +1,6 @@
 s dbaseURL: https://neelmalhotra.netlify.app
 languageCode: en-us
-title: Website
+title: Forty
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -9,7 +9,7 @@ params:
     buttonText: Let's dive in
     subtitle: |-
       I am a swimmer from India, currently pursuing the MSc Financial Analysis at LBS.
-    title: Hi, my name is Neel Malhotra.
+    title: Hey, my name is Neel Malhotra.
   blog: {}
   contact:
     address:
