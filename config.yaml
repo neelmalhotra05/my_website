@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: LBS.JPG
+      - image: LBSphwl.jpg
         subtitle: A short biography
         title: About me
         url: blogs/aliquam
@@ -107,6 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below some quick links"
-    title: Massa libero
+    subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below my contact information"
+    title: Thank you!
     url: blogs
