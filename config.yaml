@@ -1,4 +1,4 @@
-baseURL: https://neelmalhotra.netlify.app
+s dbaseURL: https://neelmalhotra.netlify.app
 languageCode: en-us
 title: Forty
 theme: forty
@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Let's dive in
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
