@@ -8,15 +8,14 @@ params:
   banner:
     buttonText: Let's dive in
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Nel Malhotra
+      I am a swimmer from India, currently pursuing the MSc Financial Analysis at LBS.
+    title: Hi, my name is Neel Malhotra
   blog: {}
   contact:
     address:
       - city: London, NW8 8TJ
         country: United Kingdom
-        street: Street
+        street: London Business School
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: +447878839506
+      - phone: "+447878839506""
         title: Phone no.
   custom_css: []
   custom_js: []
