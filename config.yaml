@@ -97,7 +97,7 @@ params:
         title: ipsum
         url: blogs/ipsum
    
-  two:
+  #two:
     buttonText: Get Started
     enable: yes
     subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below my contact information"
