@@ -38,9 +38,6 @@ params:
     enable: yes
     quicklinks:
     social:
-      - icon: Wapplogo.jpg
-        label: Twitter
-        url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
         url: https://www.facebook.com
@@ -72,7 +69,7 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
+    subtitle: By Neel Malhotra
     title: Forty
   tiles:
     enable: yes
