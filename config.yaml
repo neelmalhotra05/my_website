@@ -74,7 +74,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic02.jpg
+      - image: pic01.jpg
         subtitle: A short biography
         title: About Neel
         url: blogs/aliquam
