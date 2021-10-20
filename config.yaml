@@ -89,7 +89,7 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: ipsum
-        url: blogs/homeworkomega
+        url: blogs/homeworkomega.rmd
    
 two:
     buttonText: Get Started
