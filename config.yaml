@@ -6,9 +6,9 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Let's dive in
+    buttonText: Let's dive in...
     subtitle: |-
-      I am a Finance Student at London Business School, and an ex-Bain consultant.
+      I am a Finance Student at London Business School, and an ex-Bain consultant, and a passionate swimmer.
     title: Welcome, my name is Neel Malhotra.
   blog: {}
   contact:
@@ -91,9 +91,9 @@ params:
         title: ipsum
         url: blogs/ipsum
    
-  #two:
-   # buttonText: Get Started
-    #enable: yes
-    #subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below my contact information"
-    #title: Thank you!
-    #url: blogs
+two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Hi guys, thanks for going through my website. If you would like to connect over a cup of coffee, please find below my contact information"
+    title: Thank you!
+    url: blogs
