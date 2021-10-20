@@ -9,7 +9,7 @@ params:
     buttonText: Let's dive in
     subtitle: |-
       I am a swimmer from India, currently pursuing the MSc Financial Analysis at LBS.
-    title: Hey, my name is Neel Malhotra.
+    title: Welcome, my name is Neel Malhotra.
   blog: {}
   contact:
     address:
@@ -34,12 +34,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Neel Malhotra
     enable: yes
     quicklinks:
     social:
-      - icon: fa-twitter
-        label: Whatsapp
+      - icon: Wapplogo.jpg
+        label: Twitter
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
