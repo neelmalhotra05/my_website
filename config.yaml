@@ -70,7 +70,7 @@ params:
         url: elements.html
     menu: Menu
     subtitle: By Neel Malhotra
-    title: Forty
+    title: Website
   tiles:
     enable: yes
     showcase:
@@ -79,8 +79,8 @@ params:
         title: About Neel
         url: blogs/aliquam
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle: Divided into Academics|Work Exxperience|Athletics|Social Work
+        title: My Curriculum Vitae
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
