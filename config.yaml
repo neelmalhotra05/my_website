@@ -8,7 +8,8 @@ params:
   banner:
     buttonText: Let's "dive" in...
     subtitle: |-
-      I am a Finance Student at London Business School, an ex-Bain consultant, and a passionate swimmer. \n
+      I am a Finance Student at London Business School, an ex-Bain consultant, and a passionate swimmer.
+      
     title: Welcome, my name is Neel Malhotra.
   blog: {}
   contact:
@@ -95,7 +96,7 @@ params:
         url: blogs/consequat
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
+        title: CAPM dashboard
         url: blogs/etiam
   #two:
    # buttonText: Get Started
