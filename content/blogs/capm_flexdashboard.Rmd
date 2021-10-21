@@ -9,6 +9,8 @@ image: pic07.jpg
 keywords: ""
 slug: etiam
 title: CAPM dashboard
+runtime: shiny
+
 ---
 
 title: "Portfolio Growth over time and CAPM"
