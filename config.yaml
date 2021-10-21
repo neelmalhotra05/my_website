@@ -93,7 +93,7 @@ params:
         title: Consequat
         url: blogs/consequat
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: Dashboard showing portfolio values over time
         title: CAPM dashboard
         url: blogs/etiam
   #two:

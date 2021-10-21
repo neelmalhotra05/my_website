@@ -7,7 +7,7 @@ description: Changing to check the data
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: etiam
+slug: blogs/etiam
 title: CAPM dashboard
 runtime: shiny
 
