@@ -11,7 +11,5 @@ draft: false
 image: pic02full.jpg
 keywords: ""
 slug: tempus
-title: Tempus
+title: My Curriculum Vitae
 ---
-
-u8yhyubuhbuyi
