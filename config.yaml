@@ -83,7 +83,7 @@ params:
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: Omega Group pay discrimination analysis
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
@@ -96,3 +96,14 @@ params:
         subtitle: Feugiat Amet Tempus
         title: CAPM dashboard
         url: blogs/etiam
+  #two:
+   # buttonText: Get Started
+   # enable: yes
+    #subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+     # \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+      #condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      #pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+      #Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+      #amet pharetra et feugiat tempus."
+    #title: Massa libero
+    #url: blogs

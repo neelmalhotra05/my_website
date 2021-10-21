@@ -8,7 +8,7 @@ draft: false
 image: pic09.jpg
 keywords: ""
 slug: magna
-title: Magna
+title: Omega Group pay discrimination analysis
 ---
 
 # Omega Group plc- Pay Discrimination
